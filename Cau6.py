@@ -1,0 +1,1 @@
+print(" Minh ve minh co nho ta?\n Muoi lam nam ay thiet tha man nong.\n Minh ve minh co nho khong?\n Nhin cay nho nui, nhínong nho nguon.")
